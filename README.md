@@ -1,9 +1,5 @@
-# AI Bootcamp Dublin 2018
+# Global AI Bootcamp Taipei 2018
 
-Code for Azure AI Bootcamp Dublin - www.azurebootcampdublin.com
+[img](https://www.globalaibootcamp.com/themes/images/slide-1.jpg)
 
-
-
-
-
-
+請由 [官網](https://suensummit.github.io/ai-bootcamp-taipei/) 進入報名
