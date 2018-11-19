@@ -5,7 +5,7 @@ html {
 
 @font-face {
   font-family: Consolas;
-  src: url(/Assets/fonts/consola.ttf);
+  src: url(../fonts/consola.ttf);
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 .main-body {
-  background: url("/Assets/image/Test1.png") no-repeat center center fixed;
+  background: url("../image/Test1.png") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -128,7 +128,7 @@ body {
 
 @media (max-width: 1025px) {
   .main-body {
-    background: url("/Assets/image/Test2.png") no-repeat;
+    background: url("../image/Test2.png") no-repeat;
     background-position: center;
     background-size: cover;
   }
@@ -158,7 +158,7 @@ body {
             justify-content: flex-start;
   }
   .main-body {
-    background: url("/Assets/image/Back.svg") no-repeat;
+    background: url("../image/Back.svg") no-repeat;
     background-position: center;
     background-size: cover;
   }
